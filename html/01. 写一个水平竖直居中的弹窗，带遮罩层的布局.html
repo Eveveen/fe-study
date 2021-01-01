@@ -1,0 +1,70 @@
+<html>
+
+<head>
+    <title>写一个水平竖直居中的弹窗，带遮罩层的布局</title>
+</head>
+<style>
+    .modal-wrapper {
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 1000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .modal-content {
+        width: 50%;
+        background-color: #ffffff;
+    }
+
+    .modal-title {
+        line-height: 30px;
+        padding: 10px;
+        font-weight: 600;
+        font-size: 18px;
+        border-bottom: 1px solid #eee;
+    }
+
+    .modal-body {
+        padding: 15px;
+    }
+
+    .modal-footer {
+        text-align: right;
+        padding: 10px;
+        border-top: 1px solid #eee;
+    }
+   
+    .mask {
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, .45);
+        z-index: 1000;
+    }
+</style>
+<body>
+    <div class="mask"></div>
+    <div class="modal-wrapper">
+        <div class="modal-content">
+            <div class="modal-title">title</div>
+            <div class="modal-body">111</div>
+            <div class="modal-footer">
+                <button>确定</button>
+                <button>取消</button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
