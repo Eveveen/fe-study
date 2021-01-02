@@ -1,1 +1,1 @@
-:one: [在 JavaScript 中， (a == 1 && a == 2 && a == 3) 是否有可能为 true ？](https://github.com/Eveveen/fe-interview/blob/master/js/01.equal.js) 
+:one: [在 JavaScript 中， (a == 1 && a == 2 && a == 3) 是否有可能为 true ？](https://github.com/Eveveen/fe-study/blob/master/js/01.equal.js) 
