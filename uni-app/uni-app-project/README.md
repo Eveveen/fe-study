@@ -1,0 +1,1 @@
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [pages/update/update : 安卓手机检查更新版本，下载新版本后自动安装](https://github.com/Eveveen/fe-study/blob/master/uni-app/uni-app-project/pages/update/update.vue)  

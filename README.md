@@ -18,3 +18,7 @@ https://lucifer.ren/fe-interview/#/daily/
 ## 第三天 (2021.01.03)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [写一个方法，实现修改当前的URL链接但页面不跳转的功能](https://github.com/Eveveen/fe-study/blob/master/js/02.url.js)  
 
+## 第四天 (2021.01.04)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [描述Html布局元素的分类有哪些、及其应用场景](https://github.com/Eveveen/fe-study/blob/master/html/02.layout.md)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [js] [做几道js题目](https://github.com/Eveveen/fe-study/blob/master/html/03.question.js)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [uni-app] [实现安卓手机检查更新版本，下载新版本后自动安装](https://github.com/Eveveen/fe-study/blob/master/uni-app/uni-app-project/pages/update/update.vue)  
