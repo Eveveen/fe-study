@@ -20,5 +20,5 @@ https://lucifer.ren/fe-interview/#/daily/
 
 ## 第四天 (2021.01.04)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [描述Html布局元素的分类有哪些、及其应用场景](https://github.com/Eveveen/fe-study/blob/master/html/02.layout.md)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [js] [做几道js题目](https://github.com/Eveveen/fe-study/blob/master/html/03.question.js)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [js] [做几道js题目](https://github.com/Eveveen/fe-study/blob/master/js/03.question.js)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [uni-app] [实现安卓手机检查更新版本，下载新版本后自动安装](https://github.com/Eveveen/fe-study/blob/master/uni-app/uni-app-project/pages/update/update.vue)  
