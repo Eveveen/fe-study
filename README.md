@@ -22,3 +22,6 @@ https://lucifer.ren/fe-interview/#/daily/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [描述Html布局元素的分类有哪些、及其应用场景](https://github.com/Eveveen/fe-study/blob/master/html/02.layout.md)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [js] [做几道js题目](https://github.com/Eveveen/fe-study/blob/master/js/03.question.js)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [uni-app] [实现安卓手机检查更新版本，下载新版本后自动安装](https://github.com/Eveveen/fe-study/blob/master/uni-app/uni-app-project/pages/update/update.vue)  
+
+## 第五天 (2021.01.05)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [不产生新数组，删除数组里的重复元素](https://github.com/Eveveen/fe-study/blob/master/js/04.removeDuplicates.js)  
