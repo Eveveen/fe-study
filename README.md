@@ -25,3 +25,8 @@ https://lucifer.ren/fe-interview/#/daily/
 
 ## 第五天 (2021.01.05)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [不产生新数组，删除数组里的重复元素](https://github.com/Eveveen/fe-study/blob/master/js/04.removeDuplicates.js)  
+
+## 第六天 (2021.01.06)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [介绍一下标准的 CSS 的盒子模型？低版本 IE 的盒子模型有什么不同的？](https://github.com/Eveveen/fe-study/blob/master/html/03.box.md)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [js] [js遍历数组的方式](https://github.com/Eveveen/fe-study/blob/master/js/05.array.md)   
+
