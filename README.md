@@ -30,7 +30,9 @@ https://lucifer.ren/fe-interview/#/daily/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [介绍一下标准的 CSS 的盒子模型？低版本 IE 的盒子模型有什么不同的？](https://github.com/Eveveen/fe-study/blob/master/css/02.box.md)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [js] [js遍历数组的方式](https://github.com/Eveveen/fe-study/blob/master/js/05.array.md)   
 
-
 ## 第七天 (2021.01.07)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [CSS 选择器有哪些？](https://github.com/Eveveen/fe-study/blob/master/css/03.selector.md)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [js] [js有几种数据类型](https://github.com/Eveveen/fe-study/blob/master/js/06.dataType.md)   
+
+## 第八天 (2021.01.08)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [::before 和:after 中双冒号和单冒号有什么区别？解释一下这 2 个伪元素的作用。](https://github.com/Eveveen/fe-study/blob/master/css/04.element.md)      
