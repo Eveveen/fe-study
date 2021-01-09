@@ -4,3 +4,4 @@
 :four: [不产生新数组，删除数组里的重复元素](https://github.com/Eveveen/fe-study/blob/master/js/04.removeDuplicates.js)  
 :five: [js遍历数组的方式](https://github.com/Eveveen/fe-study/blob/master/js/05.array.md)   
 :six: [js有几种数据类型](https://github.com/Eveveen/fe-study/blob/master/js/06.dataType.md)   
+:seven: [关于 es6 的几个问题](https://github.com/Eveveen/fe-study/blob/master/js/07.es6-1.md)  
