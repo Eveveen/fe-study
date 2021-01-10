@@ -3,3 +3,4 @@
 :three:[CSS 选择器有哪些？](https://github.com/Eveveen/fe-study/blob/master/css/03.selector.md)    
 :four:[::before 和:after 中双冒号和单冒号有什么区别？解释一下这 2 个伪元素的作用。](https://github.com/Eveveen/fe-study/blob/master/css/04.element.md)   
 :five:[display 有哪些值？说明它们的作用](https://github.com/Eveveen/fe-study/blob/master/css/05.display.md)   
+:six:[position 的值 relative 和 absolute 定位原点是？](https://github.com/Eveveen/fe-study/blob/master/css/06.absolute.md)   
