@@ -7,3 +7,4 @@
 :seven: [关于 es6 的几个问题](https://github.com/Eveveen/fe-study/blob/master/js/07.es6-1.md)  
 :eight: [关于 es6 的几个问题](https://github.com/Eveveen/fe-study/blob/master/js/08.es6-2.md)   
 :nine: [js实现函数重载](https://github.com/Eveveen/fe-study/blob/master/js/09.overload.md)    
+:ten: [字符串中出现最多的字符](https://github.com/Eveveen/fe-study/blob/master/js/10.max.js)   

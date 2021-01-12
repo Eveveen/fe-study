@@ -5,6 +5,10 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
 
 
+## 第十二天 (2021.01.12)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [在网页中应该使用奇数还是偶数的字体？为什么呢？](https://github.com/Eveveen/fe-study/blob/master/css/08.font.md)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [js] [字符串中出现最多的字符](https://github.com/Eveveen/fe-study/blob/master/js/10.max.js)   
+
 ## 第十一天 (2021.01.11)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [使用图片base64编码的优点和缺点。](https://github.com/Eveveen/fe-study/blob/master/css/07.base64.md)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [js] [js实现函数重载](https://github.com/Eveveen/fe-study/blob/master/js/09.overload.md)   

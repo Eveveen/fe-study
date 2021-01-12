@@ -1,0 +1,19 @@
+// 字符串中出现最多的字符
+function countStr(s) {
+    let strMap = new Map();
+    // 将每个字符出现的次数存入 Map 中
+    for(let i = 0; i < s.length; i++) {
+        let n = strMap.get(s[i]) || 0;
+        n++;
+        strMap.set(s[i], n);
+    }
+    // 找出最大值
+    let max = Math.max(...strMap.values());
+    // 找出最大值对应的键值，即为字符串中出现最多的字符
+    for(let [key, value] of strMap) {
+        if(value === max) return key;
+    }
+    return null;
+}
+
+console.log(countStr('abcdabbbc')); // b
