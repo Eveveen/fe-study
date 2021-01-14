@@ -5,6 +5,6 @@
 :five:[display 有哪些值？说明它们的作用](https://github.com/Eveveen/fe-study/blob/master/css/05.display.md)   
 :six:[position 的值 relative 和 absolute 定位原点是？](https://github.com/Eveveen/fe-study/blob/master/css/06.absolute.md)   
 :seven:[使用图片base64编码的优点和缺点。](https://github.com/Eveveen/fe-study/blob/master/css/07.base64.md)  
-:eight:[在网页中应该使用奇数还是偶数的字体？为什么呢？](https://github.com/Eveveen/fe-study/blob/master/css/08.font.md) 
+:eight:[在网页中应该使用奇数还是偶数的字体？为什么呢？](https://github.com/Eveveen/fe-study/blob/master/css/08.font.md)    
 :nine:[实现将一段文字，若单行则居中显示，多行则居左显示](https://github.com/Eveveen/fe-study/blob/master/css/09.flex.md)       
 :ten:[display:none和visibility:hidden的区别？](https://github.com/Eveveen/fe-study/blob/master/css/10.hide.md)   
