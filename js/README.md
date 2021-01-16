@@ -11,3 +11,4 @@
 11. [js中的Map和Set](https://github.com/Eveveen/fe-study/blob/master/js/11.map-set.md)   
 12. [null是对象吗？](https://github.com/Eveveen/fe-study/blob/master/js/12.null.md)   
 13. [下面这段代码会输出什么？为什么？](https://github.com/Eveveen/fe-study/blob/master/js/13.var.md)   
+14. [NaN](https://github.com/Eveveen/fe-study/blob/master/js/14.NaN.md)   
