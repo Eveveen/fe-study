@@ -3,11 +3,15 @@
 部分题目来源：  
 https://github.com/haizlin/fe-interview  
 https://lucifer.ren/fe-interview/#/daily/    
+    
 
-## 第十六天 (2021.01.14)  
+## 第十七天 (2021.01.17)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [数值转换](https://github.com/Eveveen/fe-study/blob/master/js/15.number.md)   
+
+## 第十六天 (2021.01.16)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [NaN](https://github.com/Eveveen/fe-study/blob/master/js/14.NaN.md)   
 
-## 第十五天 (2021.01.14)  
+## 第十五天 (2021.01.15)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [border 的特殊性](https://github.com/Eveveen/fe-study/blob/master/css/11.border.md)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [js] [下面这段代码会输出什么？为什么？](https://github.com/Eveveen/fe-study/blob/master/js/13.var.md)   
 
