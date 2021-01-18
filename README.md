@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
     
 
+## 第十八天 (2021.01.18)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [转换为字符串的方式](https://github.com/Eveveen/fe-study/blob/master/js/16.string.md)   
+   
 ## 第十七天 (2021.01.17)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [数值转换](https://github.com/Eveveen/fe-study/blob/master/js/15.number.md)   
 
