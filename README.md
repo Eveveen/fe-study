@@ -5,6 +5,10 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
     
 
+    
+## 第十九天 (2021.01.19)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [减少dom数量的方法？如何优化大量dom？](https://github.com/Eveveen/fe-study/blob/master/html/03.dom.md)   
+   
 ## 第十八天 (2021.01.18)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [转换为字符串的方式](https://github.com/Eveveen/fe-study/blob/master/js/16.string.md)   
    
