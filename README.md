@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
     
 
+## 第二十天 (2021.01.20)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html 标签 b 和 strong 的区别](https://github.com/Eveveen/fe-study/blob/master/html/04.strong.md)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [js] [链式调用](https://github.com/Eveveen/fe-study/blob/master/js/17.链式调用.md)   
     
 ## 第十九天 (2021.01.19)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [减少dom数量的方法？如何优化大量dom？](https://github.com/Eveveen/fe-study/blob/master/html/03.dom.md)   
