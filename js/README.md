@@ -15,3 +15,4 @@
 15. [数值转换](https://github.com/Eveveen/fe-study/blob/master/js/15.number.md)   
 16. [转换为字符串的方式](https://github.com/Eveveen/fe-study/blob/master/js/16.string.md)   
 17. [链式调用](https://github.com/Eveveen/fe-study/blob/master/js/17.链式调用.md)   
+18. [实现 add(1)(2)(3)](https://github.com/Eveveen/fe-study/blob/master/js/18.柯里化.md)   
