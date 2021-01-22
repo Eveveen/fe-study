@@ -5,10 +5,12 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
     
 
-## 第二十一天 (2021.01.21)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [实现 add(1)(2)(3)](https://github.com/Eveveen/fe-study/blob/master/js/18.柯里化.md)   
+## 第二十二天 (2021.01.21)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [数组转树](https://github.com/Eveveen/fe-study/blob/master/js/19.arrayToTree.md)       
     
-
+## 第二十一天 (2021.01.21)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [实现 add(1)(2)(3)](https://github.com/Eveveen/fe-study/blob/master/js/18.柯里化.md)       
+    
 ## 第二十天 (2021.01.20)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html 标签 b 和 strong 的区别](https://github.com/Eveveen/fe-study/blob/master/html/04.strong.md)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [js] [链式调用](https://github.com/Eveveen/fe-study/blob/master/js/17.链式调用.md)   

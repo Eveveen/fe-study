@@ -16,3 +16,4 @@
 16. [转换为字符串的方式](https://github.com/Eveveen/fe-study/blob/master/js/16.string.md)   
 17. [链式调用](https://github.com/Eveveen/fe-study/blob/master/js/17.链式调用.md)   
 18. [实现 add(1)(2)(3)](https://github.com/Eveveen/fe-study/blob/master/js/18.柯里化.md)   
+19. [数组转树](https://github.com/Eveveen/fe-study/blob/master/js/19.arrayToTree.md)       
