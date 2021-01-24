@@ -18,3 +18,4 @@
 18. [实现 add(1)(2)(3)](https://github.com/Eveveen/fe-study/blob/master/js/18.柯里化.md)   
 19. [数组转树](https://github.com/Eveveen/fe-study/blob/master/js/19.arrayToTree.md)   
 20. [实现 lodash.get 功能](https://github.com/Eveveen/fe-study/blob/master/js/20.lodash-get.md)   
+21. [用 es6 proxy 实现 arr[-1] 的访问](https://github.com/Eveveen/fe-study/blob/master/js/21.proxy.md)   

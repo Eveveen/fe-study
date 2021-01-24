@@ -4,7 +4,9 @@
 https://github.com/haizlin/fe-interview  
 https://lucifer.ren/fe-interview/#/daily/    
     
-
+## 第二十三天 (2021.01.24)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [用 es6 proxy 实现 arr[-1] 的访问](https://github.com/Eveveen/fe-study/blob/master/js/21.proxy.md)   
+   
 ## 第二十三天 (2021.01.23)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [实现 lodash.get 功能](https://github.com/Eveveen/fe-study/blob/master/js/20.lodash-get.md)   
    
