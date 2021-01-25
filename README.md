@@ -3,8 +3,12 @@
 部分题目来源：  
 https://github.com/haizlin/fe-interview  
 https://lucifer.ren/fe-interview/#/daily/    
-    
-## 第二十三天 (2021.01.24)   
+
+## 第二十五天 (2021.01.25)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [实现发布订阅](https://github.com/Eveveen/fe-study/blob/master/js/22.发布-订阅.md)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [react] [组件通信方式](https://github.com/Eveveen/fe-study/blob/master/react/01.组件通信.md)   
+     
+## 第二十四天 (2021.01.24)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [用 es6 proxy 实现 arr[-1] 的访问](https://github.com/Eveveen/fe-study/blob/master/js/21.proxy.md)   
    
 ## 第二十三天 (2021.01.23)   
