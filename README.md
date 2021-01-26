@@ -4,6 +4,10 @@
 https://github.com/haizlin/fe-interview  
 https://lucifer.ren/fe-interview/#/daily/    
 
+
+## 第二十六天 (2021.01.26)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [防抖和节流](https://github.com/Eveveen/fe-study/blob/master/js/23.防抖和节流.md)   
+   
 ## 第二十五天 (2021.01.25)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [实现发布订阅](https://github.com/Eveveen/fe-study/blob/master/js/22.发布-订阅.md)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [react] [组件通信方式](https://github.com/Eveveen/fe-study/blob/master/react/01.组件通信.md)   

@@ -20,3 +20,4 @@
 20. [实现 lodash.get 功能](https://github.com/Eveveen/fe-study/blob/master/js/20.lodash-get.md)   
 21. [用 es6 proxy 实现 arr[-1] 的访问](https://github.com/Eveveen/fe-study/blob/master/js/21.proxy.md)   
 22. [实现发布订阅](https://github.com/Eveveen/fe-study/blob/master/js/22.发布-订阅.md)   
+23. [防抖和节流](https://github.com/Eveveen/fe-study/blob/master/js/23.防抖和节流.md)   
