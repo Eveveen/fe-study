@@ -21,3 +21,4 @@
 21. [用 es6 proxy 实现 arr[-1] 的访问](https://github.com/Eveveen/fe-study/blob/master/js/21.proxy.md)   
 22. [实现发布订阅](https://github.com/Eveveen/fe-study/blob/master/js/22.发布-订阅.md)   
 23. [防抖和节流](https://github.com/Eveveen/fe-study/blob/master/js/23.防抖和节流.md)   
+24. [类数组和数组的区别](https://github.com/Eveveen/fe-study/blob/master/js/24.类数组和数组的区别.md)   

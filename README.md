@@ -4,7 +4,10 @@
 https://github.com/haizlin/fe-interview  
 https://lucifer.ren/fe-interview/#/daily/    
 
-
+   
+## 第二十七天 (2021.01.27)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [类数组和数组的区别](https://github.com/Eveveen/fe-study/blob/master/js/24.类数组和数组的区别.md)   
+   
 ## 第二十六天 (2021.01.26)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [防抖和节流](https://github.com/Eveveen/fe-study/blob/master/js/23.防抖和节流.md)   
    
