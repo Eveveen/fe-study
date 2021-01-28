@@ -22,3 +22,4 @@
 22. [实现发布订阅](https://github.com/Eveveen/fe-study/blob/master/js/22.发布-订阅.md)   
 23. [防抖和节流](https://github.com/Eveveen/fe-study/blob/master/js/23.防抖和节流.md)   
 24. [类数组和数组的区别](https://github.com/Eveveen/fe-study/blob/master/js/24.类数组和数组的区别.md)   
+25. [setTimeout(fn,0)，延迟执行吗](https://github.com/Eveveen/fe-study/blob/master/js/25.setTimeout.md)  

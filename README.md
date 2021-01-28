@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
 
    
+## 第二十八天 (2021.01.28)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [setTimeout(fn,0)，延迟执行吗](https://github.com/Eveveen/fe-study/blob/master/js/25.setTimeout.md)   
+   
 ## 第二十七天 (2021.01.27)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [类数组和数组的区别](https://github.com/Eveveen/fe-study/blob/master/js/24.类数组和数组的区别.md)   
    
