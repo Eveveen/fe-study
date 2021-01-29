@@ -23,3 +23,4 @@
 23. [防抖和节流](https://github.com/Eveveen/fe-study/blob/master/js/23.防抖和节流.md)   
 24. [类数组和数组的区别](https://github.com/Eveveen/fe-study/blob/master/js/24.类数组和数组的区别.md)   
 25. [setTimeout(fn,0)，延迟执行吗](https://github.com/Eveveen/fe-study/blob/master/js/25.setTimeout.md)  
+26. [Promise 的特性](https://github.com/Eveveen/fe-study/blob/master/js/26.promise.md)  

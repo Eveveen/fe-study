@@ -3,8 +3,11 @@
 部分题目来源：  
 https://github.com/haizlin/fe-interview  
 https://lucifer.ren/fe-interview/#/daily/    
-
    
+
+## 第二十九天 (2021.01.29)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [Promise 的特性](https://github.com/Eveveen/fe-study/blob/master/js/26.promise.md)  
+       
 ## 第二十八天 (2021.01.28)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [setTimeout(fn,0)，延迟执行吗](https://github.com/Eveveen/fe-study/blob/master/js/25.setTimeout.md)   
    
