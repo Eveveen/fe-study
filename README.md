@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
    
+## 第三十一天 (2021.01.31)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [快速实现[1,2,...,100]](https://github.com/Eveveen/fe-study/blob/master/js/27.createArray.md)   
+   
 ## 第三十天 (2021.01.30)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [页面上如何显示特殊字符？](https://github.com/Eveveen/fe-study/blob/master/html/05.显示特殊字符.md)   
    
