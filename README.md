@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
    
+## 第三十二天 (2021.02.01)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [闭包](https://github.com/Eveveen/fe-study/blob/master/js/28.闭包.md)   
+   
 ## 第三十一天 (2021.01.31)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [快速实现[1,2,...,100]](https://github.com/Eveveen/fe-study/blob/master/js/27.createArray.md)   
    

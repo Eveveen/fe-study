@@ -25,3 +25,4 @@
 25. [setTimeout(fn,0)，延迟执行吗](https://github.com/Eveveen/fe-study/blob/master/js/25.setTimeout.md)  
 26. [Promise 的特性](https://github.com/Eveveen/fe-study/blob/master/js/26.promise.md)  
 27. [快速实现[1,2,...,100]](https://github.com/Eveveen/fe-study/blob/master/js/27.createArray.md)   
+28. [闭包](https://github.com/Eveveen/fe-study/blob/master/js/28.闭包.md)   
