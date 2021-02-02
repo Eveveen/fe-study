@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
    
+## 第三十三天 (2021.02.02)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [数组中forEach和map的区别](https://github.com/Eveveen/fe-study/blob/master/js/29.array.md)   
+      
 ## 第三十二天 (2021.02.01)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [闭包](https://github.com/Eveveen/fe-study/blob/master/js/28.闭包.md)   
    
