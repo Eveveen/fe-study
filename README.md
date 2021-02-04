@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
    
+## 第三十五天 (2021.02.04)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [字符串的常用方法有哪些](https://github.com/Eveveen/fe-study/blob/master/js/31.string.md)   
+      
 ## 第三十四天 (2021.02.03)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [数组的常用方法有哪些](https://github.com/Eveveen/fe-study/blob/master/js/30.array.md)   
       
