@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
    
+## 第三十六天 (2021.02.05)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [new 一个函数发生了什么](https://github.com/Eveveen/fe-study/blob/master/js/32.new.md)   
+      
 ## 第三十五天 (2021.02.04)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [字符串的常用方法有哪些](https://github.com/Eveveen/fe-study/blob/master/js/31.string.md)   
       
