@@ -31,3 +31,4 @@
 31. [字符串的常用方法有哪些](https://github.com/Eveveen/fe-study/blob/master/js/31.string.md)   
 32. [new 一个函数发生了什么](https://github.com/Eveveen/fe-study/blob/master/js/32.new.md)   
 33. [0.1 + 0.2 === 0.3](https://github.com/Eveveen/fe-study/blob/master/js/33.plus.md)   
+34. [Symbol有什么用处](https://github.com/Eveveen/fe-study/blob/master/js/34.Symbol.md)   
