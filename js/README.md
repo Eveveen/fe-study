@@ -32,3 +32,4 @@
 32. [new 一个函数发生了什么](https://github.com/Eveveen/fe-study/blob/master/js/32.new.md)   
 33. [0.1 + 0.2 === 0.3](https://github.com/Eveveen/fe-study/blob/master/js/33.plus.md)   
 34. [Symbol有什么用处](https://github.com/Eveveen/fe-study/blob/master/js/34.Symbol.md)   
+35. [== 和 ===区别，分别在什么情况使用？](https://github.com/Eveveen/fe-study/blob/master/js/35.==.md)   

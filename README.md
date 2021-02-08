@@ -4,7 +4,10 @@
 https://github.com/haizlin/fe-interview  
 https://lucifer.ren/fe-interview/#/daily/    
    
-   
+
+## 第三十九天 (2021.02.08)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [== 和 ===区别，分别在什么情况使用？](https://github.com/Eveveen/fe-study/blob/master/js/35.==.md)   
+        
 ## 第三十八天 (2021.02.07)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [Symbol有什么用处](https://github.com/Eveveen/fe-study/blob/master/js/34.Symbol.md)   
        
