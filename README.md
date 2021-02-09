@@ -4,7 +4,10 @@
 https://github.com/haizlin/fe-interview  
 https://lucifer.ren/fe-interview/#/daily/    
    
-
+    
+## 第四十天 (2021.02.09)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [深拷贝浅拷贝的区别？如何实现一个深拷贝？](https://github.com/Eveveen/fe-study/blob/master/js/36.拷贝.md)   
+        
 ## 第三十九天 (2021.02.08)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [== 和 ===区别，分别在什么情况使用？](https://github.com/Eveveen/fe-study/blob/master/js/35.==.md)   
         
