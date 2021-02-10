@@ -34,3 +34,4 @@
 34. [Symbol有什么用处](https://github.com/Eveveen/fe-study/blob/master/js/34.Symbol.md)   
 35. [== 和 ===区别，分别在什么情况使用？](https://github.com/Eveveen/fe-study/blob/master/js/35.==.md)   
 36. [深拷贝浅拷贝的区别？如何实现一个深拷贝？](https://github.com/Eveveen/fe-study/blob/master/js/36.拷贝.md)   
+37. [JS 整数是怎么表示的？](https://github.com/Eveveen/fe-study/blob/master/js/37.整数.md) 
