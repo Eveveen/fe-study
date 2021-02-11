@@ -4,7 +4,10 @@
 https://github.com/haizlin/fe-interview  
 https://lucifer.ren/fe-interview/#/daily/    
    
-
+    
+## 第四十二天 (2021.02.11)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [尾递归实现](https://github.com/Eveveen/fe-study/blob/master/js/38.尾递归.md)   
+         
 ## 第四十一天 (2021.02.10)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [JS 整数是怎么表示的？](https://github.com/Eveveen/fe-study/blob/master/js/37.整数.md)   
          
