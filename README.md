@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
     
+## 第四十三天 (2021.02.12)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [实现cookie的设置、读取、删除](https://github.com/Eveveen/fe-study/blob/master/js/39.cookie.md)   
+       
 ## 第四十二天 (2021.02.11)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [尾递归实现](https://github.com/Eveveen/fe-study/blob/master/js/38.尾递归.md)   
          

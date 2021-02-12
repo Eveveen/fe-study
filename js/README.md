@@ -36,3 +36,4 @@
 36. [深拷贝浅拷贝的区别？如何实现一个深拷贝？](https://github.com/Eveveen/fe-study/blob/master/js/36.拷贝.md)   
 37. [JS 整数是怎么表示的？](https://github.com/Eveveen/fe-study/blob/master/js/37.整数.md)   
 38. [尾递归实现](https://github.com/Eveveen/fe-study/blob/master/js/38.尾递归.md)   
+39. [实现cookie的设置、读取、删除](https://github.com/Eveveen/fe-study/blob/master/js/39.cookie.md)   
