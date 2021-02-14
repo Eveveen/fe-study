@@ -38,3 +38,4 @@
 38. [尾递归实现](https://github.com/Eveveen/fe-study/blob/master/js/38.尾递归.md)   
 39. [实现cookie的设置、读取、删除](https://github.com/Eveveen/fe-study/blob/master/js/39.cookie.md)   
 40. [Number() 的存储空间是多大](https://github.com/Eveveen/fe-study/blob/master/js/40.number.md)   
+41. [NaN 是什么，用 typeof 会输出什么？](https://github.com/Eveveen/fe-study/blob/master/js/41.NaN.md)   

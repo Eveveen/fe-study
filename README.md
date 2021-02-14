@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
     
+## 第四十五天 (2021.02.14)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [NaN 是什么，用 typeof 会输出什么？](https://github.com/Eveveen/fe-study/blob/master/js/41.NaN.md)   
+       
 ## 第四十四天 (2021.02.13)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [Number() 的存储空间是多大](https://github.com/Eveveen/fe-study/blob/master/js/40.number.md)   
        
