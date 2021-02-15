@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
     
+## 第四十六天 (2021.02.15)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [setTimeout(fn, 0)多久才执行](https://github.com/Eveveen/fe-study/blob/master/js/42.setTimeout.md)   
+       
 ## 第四十五天 (2021.02.14)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [NaN 是什么，用 typeof 会输出什么？](https://github.com/Eveveen/fe-study/blob/master/js/41.NaN.md)   
        
