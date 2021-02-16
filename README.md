@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
     
+## 第四十七天 (2021.02.16)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [new 一个构造函数，如果函数返回 return {} 、 return null ， return 1 ， return true 会发生什么情况？](https://github.com/Eveveen/fe-study/blob/master/js/43.new.md)   
+       
 ## 第四十六天 (2021.02.15)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [setTimeout(fn, 0)多久才执行](https://github.com/Eveveen/fe-study/blob/master/js/42.setTimeout.md)   
        

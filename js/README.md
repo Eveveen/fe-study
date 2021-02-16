@@ -40,3 +40,4 @@
 40. [Number() 的存储空间是多大](https://github.com/Eveveen/fe-study/blob/master/js/40.number.md)   
 41. [NaN 是什么，用 typeof 会输出什么？](https://github.com/Eveveen/fe-study/blob/master/js/41.NaN.md)   
 42. [setTimeout(fn, 0)多久才执行](https://github.com/Eveveen/fe-study/blob/master/js/42.setTimeout.md)   
+43. [new 一个构造函数，如果函数返回 return {} 、 return null ， return 1 ， return true 会发生什么情况？](https://github.com/Eveveen/fe-study/blob/master/js/43.new.md)   
