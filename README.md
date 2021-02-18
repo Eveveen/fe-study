@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
     
+## 第四十九天 (2021.02.18)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [事件是如何实现的？](https://github.com/Eveveen/fe-study/blob/master/js/45.事件.md)   
+       
 ## 第四十八天 (2021.02.17)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何判断一个对象是不是空对象？](https://github.com/Eveveen/fe-study/blob/master/js/44.空对象.md)   
        
