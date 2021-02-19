@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
     
+## 第五十天 (2021.02.19)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [JavaScript 运算符](https://github.com/Eveveen/fe-study/blob/master/js/46.运算符.md)   
+       
 ## 第四十九天 (2021.02.18)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [事件是如何实现的？](https://github.com/Eveveen/fe-study/blob/master/js/45.事件.md)   
        
