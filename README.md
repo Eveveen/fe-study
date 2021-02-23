@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
     
+## 第五十四天 (2021.02.23)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [手动实现Object.create](https://github.com/Eveveen/fe-study/blob/master/js/50.Object.create.md)   
+    
 ## 第五十三天 (2021.02.22)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [两数之和](https://github.com/Eveveen/fe-study/blob/master/js/49.两数之和.md)   
     
