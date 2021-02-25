@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
     
+## 第五十五天 (2021.02.25)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [setInterval 时间误差问题 ](https://github.com/Eveveen/fe-study/blob/master/js/52.setInterval.md)   
+    
 ## 第五十五天 (2021.02.24)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [手动实现bind方法](https://github.com/Eveveen/fe-study/blob/master/js/51.bind.md)   
     

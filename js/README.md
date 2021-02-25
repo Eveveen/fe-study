@@ -49,3 +49,4 @@
 49. [两数之和](https://github.com/Eveveen/fe-study/blob/master/js/49.两数之和.md)   
 50. [手动实现Object.create](https://github.com/Eveveen/fe-study/blob/master/js/50.Object.create.md)   
 51. [手动实现bind方法](https://github.com/Eveveen/fe-study/blob/master/js/51.bind.md)   
+52. [setInterval 时间误差问题 ](https://github.com/Eveveen/fe-study/blob/master/js/52.setInterval.md)   
