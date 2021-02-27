@@ -51,3 +51,4 @@
 51. [手动实现bind方法](https://github.com/Eveveen/fe-study/blob/master/js/51.bind.md)   
 52. [setInterval 时间误差问题 ](https://github.com/Eveveen/fe-study/blob/master/js/52.setInterval.md)   
 53. [判断数组的方法](https://github.com/Eveveen/fe-study/blob/master/js/53.array.md)   
+54. [for...in和for...of的区别](https://github.com/Eveveen/fe-study/blob/master/js/54.for.md)   
