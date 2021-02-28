@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
     
+## 第五十九天 (2021.02.28)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [怎么加事件监听](https://github.com/Eveveen/fe-study/blob/master/js/55.监听.md)   
+   
 ## 第五十八天 (2021.02.27)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [for...in和for...of的区别](https://github.com/Eveveen/fe-study/blob/master/js/54.for.md)   
    
