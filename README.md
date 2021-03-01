@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
     
+## 第六十天 (2021.03.01)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [module、export、import 是什么，有什么作用？](https://github.com/Eveveen/fe-study/blob/master/js/56.module.md)   
+   
 ## 第五十九天 (2021.02.28)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [怎么加事件监听](https://github.com/Eveveen/fe-study/blob/master/js/55.监听.md)   
    
