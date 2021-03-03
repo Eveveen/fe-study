@@ -55,3 +55,4 @@
 55. [怎么加事件监听](https://github.com/Eveveen/fe-study/blob/master/js/55.监听.md)   
 56. [module、export、import 是什么，有什么作用？](https://github.com/Eveveen/fe-study/blob/master/js/56.module.md)   
 57. [for-in 和 object.key 的区别](https://github.com/Eveveen/fe-study/blob/master/js/57.object.md)   
+58. [数组里有10万个数据，取第一个元素和第10万个元素的时间相差多少](https://github.com/Eveveen/fe-study/blob/master/js/58.array.md)   
