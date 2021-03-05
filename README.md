@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
     
+## 第六十四天 (2021.03.05)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [数组去重](https://github.com/Eveveen/fe-study/blob/master/js/60.array.md)   
+   
 ## 第六十三天 (2021.03.04)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [计算两个数组的交集](https://github.com/Eveveen/fe-study/blob/master/js/59.array.md)   
    
