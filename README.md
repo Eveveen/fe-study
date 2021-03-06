@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
     
+## 第六十五天 (2021.03.06)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [instance 如何使用](https://github.com/Eveveen/fe-study/blob/master/js/61.instance.md)   
+   
 ## 第六十四天 (2021.03.05)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [数组去重](https://github.com/Eveveen/fe-study/blob/master/js/60.array.md)   
    
