@@ -59,3 +59,4 @@
 59. [计算两个数组的交集](https://github.com/Eveveen/fe-study/blob/master/js/59.array.md)   
 60. [数组去重](https://github.com/Eveveen/fe-study/blob/master/js/60.array.md)   
 61. [instance 如何使用](https://github.com/Eveveen/fe-study/blob/master/js/61.instance.md)   
+62. [(() => 1).length === 0; // 输出什么](https://github.com/Eveveen/fe-study/blob/master/js/62.function.md)   
