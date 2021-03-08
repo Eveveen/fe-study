@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
     
+## 第六十七天 (2021.03.08)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [实现一个sleep函数](https://github.com/Eveveen/fe-study/blob/master/js/63.sleep.md)   
+   
 ## 第六十六天 (2021.03.07)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [(() => 1).length === 0; // 输出什么](https://github.com/Eveveen/fe-study/blob/master/js/62.function.md)   
    
