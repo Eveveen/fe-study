@@ -61,3 +61,4 @@
 61. [instance 如何使用](https://github.com/Eveveen/fe-study/blob/master/js/61.instance.md)   
 62. [(() => 1).length === 0; // 输出什么](https://github.com/Eveveen/fe-study/blob/master/js/62.function.md)   
 63. [实现一个sleep函数](https://github.com/Eveveen/fe-study/blob/master/js/63.sleep.md)   
+64. [以下代码输出什么？为什么？](https://github.com/Eveveen/fe-study/blob/master/js/64.async.md)   
