@@ -62,3 +62,4 @@
 62. [(() => 1).length === 0; // 输出什么](https://github.com/Eveveen/fe-study/blob/master/js/62.function.md)   
 63. [实现一个sleep函数](https://github.com/Eveveen/fe-study/blob/master/js/63.sleep.md)   
 64. [以下代码输出什么？为什么？](https://github.com/Eveveen/fe-study/blob/master/js/64.async.md)   
+65. [以下代码输出顺序是什么？为什么会这样？](https://github.com/Eveveen/fe-study/blob/master/js/65.async.md)   
