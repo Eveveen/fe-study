@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
    
+## 第七十天 (2021.03.11)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [react] [写React/Vue项目时为什么要在列表组件中写key，其作用是什么？](https://github.com/Eveveen/fe-study/blob/master/react/02.key.md)   
+    
 ## 第六十九天 (2021.03.10)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [以下代码输出顺序是什么？为什么会这样？](https://github.com/Eveveen/fe-study/blob/master/js/65.async.md)   
     
