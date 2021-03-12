@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
    
+## 第七十一天 (2021.03.12)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [cookie 和 token 都存放在 header 中，为什么不会劫持 token？](https://github.com/Eveveen/fe-study/blob/master/js/66.cookie.md)   
+    
 ## 第七十天 (2021.03.11)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [react] [写React/Vue项目时为什么要在列表组件中写key，其作用是什么？](https://github.com/Eveveen/fe-study/blob/master/react/02.key.md)   
     
