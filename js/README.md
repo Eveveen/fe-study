@@ -64,3 +64,4 @@
 64. [以下代码输出什么？为什么？](https://github.com/Eveveen/fe-study/blob/master/js/64.async.md)   
 65. [以下代码输出顺序是什么？为什么会这样？](https://github.com/Eveveen/fe-study/blob/master/js/65.async.md)   
 66. [cookie 和 token 都存放在 header 中，为什么不会劫持 token？](https://github.com/Eveveen/fe-study/blob/master/js/66.cookie.md)   
+67. [介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/Eveveen/fe-study/blob/master/js/67.traversal.md)   

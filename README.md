@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
    
+## 第七十二天 (2021.03.13)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/Eveveen/fe-study/blob/master/js/67.traversal.md)   
+    
 ## 第七十一天 (2021.03.12)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [cookie 和 token 都存放在 header 中，为什么不会劫持 token？](https://github.com/Eveveen/fe-study/blob/master/js/66.cookie.md)   
     
