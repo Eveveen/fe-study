@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
    
+## 第七十三天 (2021.03.14)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [react] [React 中 setState 什么时候是同步的，什么时候是异步的？](https://github.com/Eveveen/fe-study/blob/master/react/03.setState.md)   
+    
 ## 第七十二天 (2021.03.13)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/Eveveen/fe-study/blob/master/js/67.traversal.md)   
     
