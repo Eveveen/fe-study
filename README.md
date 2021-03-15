@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
    
+## 第七十四天 (2021.03.15)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [跨域问题如何解决](https://github.com/Eveveen/fe-study/blob/master/react/68.cors.md)   
+    
 ## 第七十三天 (2021.03.14)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [react] [React 中 setState 什么时候是同步的，什么时候是异步的？](https://github.com/Eveveen/fe-study/blob/master/react/03.setState.md)   
     
