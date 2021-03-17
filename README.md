@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
    
+## 第七十六天 (2021.03.17)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何避免内存泄漏](https://github.com/Eveveen/fe-study/blob/master/react/70.内存.md)   
+    
 ## 第七十五天 (2021.03.16)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [js中有哪几种内存泄漏的情况](https://github.com/Eveveen/fe-study/blob/master/react/69.内存.md)   
     
