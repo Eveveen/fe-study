@@ -68,3 +68,4 @@
 68. [跨域问题如何解决](https://github.com/Eveveen/fe-study/blob/master/react/68.cors.md)   
 69. [js中有哪几种内存泄漏的情况](https://github.com/Eveveen/fe-study/blob/master/react/69.内存.md)   
 70. [如何避免内存泄漏](https://github.com/Eveveen/fe-study/blob/master/react/70.内存.md)   
+71. [js中的内存管理](https://github.com/Eveveen/fe-study/blob/master/react/71.内存.md)   
