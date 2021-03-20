@@ -69,3 +69,4 @@
 69. [js中有哪几种内存泄漏的情况](https://github.com/Eveveen/fe-study/blob/master/js/69.内存.md)   
 70. [如何避免内存泄漏](https://github.com/Eveveen/fe-study/blob/master/js/70.内存.md)   
 71. [js中的内存管理](https://github.com/Eveveen/fe-study/blob/master/js/71.内存.md)   
+72. [实现 convert 方法，把原始 list 转换成树形结构](https://github.com/Eveveen/fe-study/blob/master/js/72.convert.md)   
