@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
    
+## 第八十二天 (2021.03.23)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何判断一个数据是 NaN](https://github.com/Eveveen/fe-study/blob/master/js/74.NaN.md)   
+    
 ## 第八十一天 (2021.03.22)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [react] [调用 setState 之后发生了什么？](https://github.com/Eveveen/fe-study/blob/master/react/05.setState.md)   
    
