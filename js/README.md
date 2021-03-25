@@ -74,3 +74,4 @@
 74. [如何判断一个数据是 NaN](https://github.com/Eveveen/fe-study/blob/master/js/74.NaN.md)   
 75. [JS 中 null 与 undefined 区别](https://github.com/Eveveen/fe-study/blob/master/js/75.null.md)   
 76. [事件委托是什么](https://github.com/Eveveen/fe-study/blob/master/js/76.事件委托.md)   
+77. [改造下面的代码，使之输出 0 - 9](https://github.com/Eveveen/fe-study/blob/master/js/77.code.md)   
