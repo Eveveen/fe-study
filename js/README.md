@@ -73,3 +73,4 @@
 73. [call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/Eveveen/fe-study/blob/master/js/73.call.md)   
 74. [如何判断一个数据是 NaN](https://github.com/Eveveen/fe-study/blob/master/js/74.NaN.md)   
 75. [JS 中 null 与 undefined 区别](https://github.com/Eveveen/fe-study/blob/master/js/75.null.md)   
+76. [事件委托是什么](https://github.com/Eveveen/fe-study/blob/master/js/76.事件委托.md)   

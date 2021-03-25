@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
    
+## 第八十四天 (2021.03.25)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [事件委托是什么](https://github.com/Eveveen/fe-study/blob/master/js/76.事件委托.md)   
+    
 ## 第八十三天 (2021.03.24)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [JS 中 null 与 undefined 区别](https://github.com/Eveveen/fe-study/blob/master/js/75.null.md)   
     
