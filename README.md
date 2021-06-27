@@ -4,6 +4,10 @@
 https://github.com/haizlin/fe-interview  
 https://lucifer.ren/fe-interview/#/daily/    
    
+
+## 第八十六天 (2021.06.27)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [网络中使用最多的图片格式有哪些](https://github.com/Eveveen/fe-study/blob/master/html/06.picture.md)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [js] [cookie、localStorage、sessionStorage的区别](https://github.com/Eveveen/fe-study/blob/master/js/78.cookie.md)   
    
 ## 第八十五天 (2021.03.26)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [改造下面的代码，使之输出 0 - 9](https://github.com/Eveveen/fe-study/blob/master/js/77.code.md)   
