@@ -6,3 +6,5 @@
 6. [网络中使用最多的图片格式有哪些](https://github.com/Eveveen/fe-study/blob/master/html/06.picture.md)   
 7. [iframe有哪些优缺点](https://github.com/Eveveen/fe-study/blob/master/html/07.iframe.md)   
 8. [如何实现浏览器内多个标签页之间的通信](https://github.com/Eveveen/fe-study/blob/master/js/08.commucation.md)   
+9. [title 与 h1, b 与 strong, i 与 em 的区别](https://github.com/Eveveen/fe-study/blob/master/html/09.inline.md)   
+10. [写了两行 a 标签，两个标签之间会有空格](https://github.com/Eveveen/fe-study/blob/master/js/10.inline.md)   
