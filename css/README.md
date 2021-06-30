@@ -10,3 +10,6 @@
 10. [display:none和visibility:hidden的区别？](https://github.com/Eveveen/fe-study/blob/master/css/10.hide.md)   
 11. [border 的特殊性](https://github.com/Eveveen/fe-study/blob/master/css/11.border.md)   
 12. [如何让 Chrome 支持小于 12px 的文字](https://github.com/Eveveen/fe-study/blob/master/js/12.font.md)   
+13. [为什么要清除浮动？清除浮动的方式？](https://github.com/Eveveen/fe-study/blob/master/css/13.float.md)  
+14. [定位的属性值有何区别](https://github.com/Eveveen/fe-study/blob/master/css/14.position.md)    
+15. [如何实现标签的禁用](https://github.com/Eveveen/fe-study/blob/master/css/15.disabled.md)   
