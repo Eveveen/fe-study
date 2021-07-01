@@ -5,6 +5,9 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
    
+## 第九十天 (2021.07.01)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [用 Promise 解决什么问题](https://github.com/Eveveen/fe-study/blob/master/js/79.promise.md)   
+   
 ## 第八十九天 (2021.06.30)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [为什么要清除浮动？清除浮动的方式？](https://github.com/Eveveen/fe-study/blob/master/css/13.float.md)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [定位的属性值有何区别](https://github.com/Eveveen/fe-study/blob/master/css/14.position.md)   

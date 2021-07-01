@@ -76,3 +76,4 @@
 76. [事件委托是什么](https://github.com/Eveveen/fe-study/blob/master/js/76.事件委托.md)   
 77. [改造下面的代码，使之输出 0 - 9](https://github.com/Eveveen/fe-study/blob/master/js/77.code.md)   
 78. [cookie、localStorage、sessionStorage的区别](https://github.com/Eveveen/fe-study/blob/master/js/78.cookie.md)   
+79. [用 Promise 解决什么问题](https://github.com/Eveveen/fe-study/blob/master/js/79.promise.md)   
