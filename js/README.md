@@ -77,3 +77,8 @@
 77. [改造下面的代码，使之输出 0 - 9](https://github.com/Eveveen/fe-study/blob/master/js/77.code.md)   
 78. [cookie、localStorage、sessionStorage的区别](https://github.com/Eveveen/fe-study/blob/master/js/78.cookie.md)   
 79. [用 Promise 解决什么问题](https://github.com/Eveveen/fe-study/blob/master/js/79.promise.md)   
+80. [如何编写高性能的Javascript](https://github.com/Eveveen/fe-study/blob/master/js/80.performance.md)   
+81. [js 中的作用域与变量声明提升](https://github.com/Eveveen/fe-study/blob/master/js/81.declare.md)   
+82. [document.write 和 innerHTML 的区别](https://github.com/Eveveen/fe-study/blob/master/js/82.innerHTML.md)     
+83. [如何将浮点数点左边的数每三位添加一个逗号，如 12000000.11 转化为『12,000,000.11』](https://github.com/Eveveen/fe-study/blob/master/js/83.format.md)   
+84. [~ 操作符的作用](https://github.com/Eveveen/fe-study/blob/master/js/84.operator.md)   

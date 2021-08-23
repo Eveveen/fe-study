@@ -5,6 +5,13 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
    
+## 第九十一天 (2021.08.23)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何编写高性能的Javascript](https://github.com/Eveveen/fe-study/blob/master/js/80.performance.md)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [js] [js 中的作用域与变量声明提升](https://github.com/Eveveen/fe-study/blob/master/js/81.declare.md)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [document.write 和 innerHTML 的区别](https://github.com/Eveveen/fe-study/blob/master/js/82.innerHTML.md)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [js] [如何将浮点数点左边的数每三位添加一个逗号，如 12000000.11 转化为『12,000,000.11』](https://github.com/Eveveen/fe-study/blob/master/js/83.format.md)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:five: [js] [~ 操作符的作用](https://github.com/Eveveen/fe-study/blob/master/js/84.operator.md)   
+   
 ## 第九十天 (2021.07.01)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [用 Promise 解决什么问题](https://github.com/Eveveen/fe-study/blob/master/js/79.promise.md)   
    
