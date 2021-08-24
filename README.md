@@ -5,6 +5,14 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
    
+## 第九十二天 (2021.08.24)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何判断当前脚本运行在浏览器还是node环境中](https://github.com/Eveveen/fe-study/blob/master/js/85.env.md)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [js] [检测浏览器版本版本有哪些方式](https://github.com/Eveveen/fe-study/blob/master/js/86.browser.md)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [toPrecision 和 toFixed 和 Math.round 的区别](https://github.com/Eveveen/fe-study/blob/master/js/87.accuracy.md)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [js] [let 和 const 的注意点](https://github.com/Eveveen/fe-study/blob/master/js/88.let.md)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:five: [js] [什么是 rest 参数](https://github.com/Eveveen/fe-study/blob/master/js/89.rest.md)   
+   
+
 ## 第九十一天 (2021.08.23)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何编写高性能的Javascript](https://github.com/Eveveen/fe-study/blob/master/js/80.performance.md)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [js] [js 中的作用域与变量声明提升](https://github.com/Eveveen/fe-study/blob/master/js/81.declare.md)   

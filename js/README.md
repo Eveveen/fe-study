@@ -82,3 +82,8 @@
 82. [document.write 和 innerHTML 的区别](https://github.com/Eveveen/fe-study/blob/master/js/82.innerHTML.md)     
 83. [如何将浮点数点左边的数每三位添加一个逗号，如 12000000.11 转化为『12,000,000.11』](https://github.com/Eveveen/fe-study/blob/master/js/83.format.md)   
 84. [~ 操作符的作用](https://github.com/Eveveen/fe-study/blob/master/js/84.operator.md)   
+85. [如何判断当前脚本运行在浏览器还是node环境中](https://github.com/Eveveen/fe-study/blob/master/js/85.env.md)   
+86. [检测浏览器版本版本有哪些方式](https://github.com/Eveveen/fe-study/blob/master/js/86.browser.md)   
+87. [toPrecision 和 toFixed 和 Math.round 的区别](https://github.com/Eveveen/fe-study/blob/master/js/87.accuracy.md)   
+88. [let 和 const 的注意点](https://github.com/Eveveen/fe-study/blob/master/js/88.let.md)   
+89. [什么是 rest 参数](https://github.com/Eveveen/fe-study/blob/master/js/89.rest.md)   
