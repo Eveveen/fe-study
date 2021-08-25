@@ -5,6 +5,10 @@ https://github.com/haizlin/fe-interview
 https://lucifer.ren/fe-interview/#/daily/    
    
    
+## 第九十三天 (2021.08.25)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [手写 call、apply 及 bind 函数](https://github.com/Eveveen/fe-study/blob/master/js/90.call.md)   
+
+   
 ## 第九十二天 (2021.08.24)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何判断当前脚本运行在浏览器还是node环境中](https://github.com/Eveveen/fe-study/blob/master/js/85.env.md)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [js] [检测浏览器版本版本有哪些方式](https://github.com/Eveveen/fe-study/blob/master/js/86.browser.md)   

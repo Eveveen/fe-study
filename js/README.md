@@ -87,3 +87,4 @@
 87. [toPrecision 和 toFixed 和 Math.round 的区别](https://github.com/Eveveen/fe-study/blob/master/js/87.accuracy.md)   
 88. [let 和 const 的注意点](https://github.com/Eveveen/fe-study/blob/master/js/88.let.md)   
 89. [什么是 rest 参数](https://github.com/Eveveen/fe-study/blob/master/js/89.rest.md)   
+90. [手写 call、apply 及 bind 函数](https://github.com/Eveveen/fe-study/blob/master/js/90.call.md)   
