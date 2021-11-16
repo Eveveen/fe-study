@@ -1,0 +1,166 @@
+## JsBridge原理
+
+
+Hybrid最核心的就是Navite和H5的双向通讯, 而通讯是完全依赖于native提供的webview容器，那native提供的这个webview容器有什么特点能支撑起h5和native的通讯呢？具体的通讯流程到底是什么样子呢？
+
+首先说明有两种方式：
+
+* URL Schema， 客户端通过拦截webview请求来完成通讯
+* native向webview中的js执行环境,  注入API, 以此来完成通讯
+
+### 一、URL Schema, 客户端拦截webview请求
+
+1. 原理
+
+在webview中发出的网络请求，都会被客户端监听和捕获到。
+
+这是我们本节课所有实现的基石。
+
+2. 定义自己的私有协议
+
+上面说过, 所有网络请求都会被监听到, 网络请求最常见的就是http协议, 比如https://a.b.com/fetchInfo, 这是一个很常见的请求。
+
+webview内的H5页面肯定有很多类似的http请求, 我们为了区别于业务请求, 需要定制一套h5和native进行交互的私有协议, 我们通常称呼为URL Schema。
+
+比如我们现在定义协议头为 lubai://,
+
+那么随后我们要在webview请求中都带上这个私有协议开头, 比如有一个请求是setLeftButton, 实际发出的请求会是lubai://setLeftButton?params1=xxx&params2=xxx.
+
+
+这里大家记住, 这个协议的名称是我们自定义的, 只要h5和native协商好即可。
+但是如果公司旗下有多个app, 对于通用的业务一般会定义一个通用的协议头, 比如common://；对于每个app自己比较独立的业务, 基本每个app都会自己定义一套协议, 比如appa://, appb://, appc://.
+
+3. 请求的发送
+
+对于webview请求的发送, 我们一般使用iframe的方式。也可以使用location.href的方式, 但是这种方式不适用并行发请求的场景。
+
+```js
+const doc = window.document;
+const body = window.document.body;
+const iframe = doc.createElement('iframe');
+
+iframe.style.display = 'none';
+iframe.src = 'lubai://setLeftButton?param1=12313123';
+
+body.appendChild(iframe);
+setTimeout(() => {
+    body.removeChild(iframe);
+}, 200)
+```
+
+而且考虑到安全性, 客户端中一般会设置域名白名单, 比如客户端设置了lubai.com为白名单, 那么只有lubai.com域下发出的请求, 才会被客户端处理。
+
+这样可以避免自己app内部的业务逻辑, 被第三方页面直接调用。
+
+4. 客户端拦截协议请求
+
+iOS和Android对webview请求的拦截方法不太相同。
+
+* iOS: shouldStartLoadWithRequest
+* Android: shouldOverrideUrlLoading
+
+当客户端解析到请求的URL协议是约定要的lubai://时, 便会解析参数, 并根据h5传入的方法名比如setLeftButton, 来进行相关操作（设置返回按钮的处理逻辑）。
+
+5. 请求处理完成后的回调
+
+因为咱们webview的请求本质上还是异步请求的过程, 当请求完成后, 我们需要有一个callback触发, 无论是通知h5执行结果，还是返回一些数据， 都离不开callback的执行。
+
+我们可以使用Js自带的事件机制，window.addEventListener和window.dispatchEvent这两个API。
+
+还是这个例子, 比如咱们现在要调用setLeftButton方法, 方法要传入一个callback来得知是否执行成功了。
+
+```js
+webview.setLeftButton({ params1: 111 }, (err) => {
+    if (err) {
+        console.error('执行失败');
+        return;
+    }
+    console.log('执行成功');
+    // 业务逻辑
+})
+```
+
+JsBridge中具体的步骤应该是这样的：
+
+* 在H5调用setLeftButton方法时, 通过 webview_api名称+参数 作为唯一标识,注册自定义事件
+
+```js
+const handlerId = Symbol();
+const eventName = `setLeftButton_${handlerId}`;
+const event = new Event(eventName);
+window.addEventListener(eventName, (res) => {
+    if (res.data.errcode) {
+        console.error('执行失败');
+        return;
+    }
+    console.log('执行成功');
+    // 业务逻辑
+});
+
+JsBridge.send(`lubai://setLeftButton?handlerId=${eventName}&params1=111`);
+```
+
+* 客户端在接收到请求, 完成自己的对应处理后, 需要调用JsBridge中的dispatch, 携带回调的数据触发自定义事件。
+
+```js
+event.data = { errcode: 0 };
+window.dispatchEvent(event);
+```
+
+### 注入API
+
+上述方式有个比较大的缺点, 就是参数如果太长会被截断。以前用这种方式主要是为了兼容iOS6， 现在几乎已经不需要考虑这么低的版本了。
+
+所以现在主流的实现是native向js的执行环境中注入API.
+
+具体怎么操作呢, 咱们分步骤来看：
+
+1. 向native传递信息
+
+由于native已经向window变量注入了各种api, 所以咱们可以直接调用他们。
+
+比如现在window.lubaiWebview = { setLeftButton: (params) => {}} 就是native注入的对象api。
+
+我们可以直接这样调用, 就可以传参数给native了
+```js
+window.lubaiWebview['setLeftButton'](params)
+```
+
+但是为了安全性, 或者为了不要乱码等问题, 我们一般会对参数进行编码, 比如转换为base64格式。
+
+2. 准备接收native的回调
+
+咱们同样可以在window上声明接收回调的api
+
+```js
+window['setLeftButton_Callback_1'] = (errcode, response) => {
+    console.log(errcode);
+}
+```
+
+同样为了安全性和参数传递的准确性, native也会将回调的数据进行base64编码, 咱们需要在回调函数里进行解析。
+
+3. native调用回调函数
+
+native怎么知道哪个是这次的回调函数呢? 他们确实不知道, 所以我们需要在调用的时候就告诉native。
+
+```js
+window.lubaiWebview['setLeftButton'](params)
+```
+
+这个Params中, 我们会加入一个属性叫做trigger, 它的值是回调函数的名称, 比如
+
+```js
+const callbackName = 'setLeftButton_Callback_1';
+window.lubaiWebview['setLeftButton']({
+    trigger: callbackName,
+    ...otherParams
+});
+
+window[callbackName] = (errcode, response) => {
+    console.log(errcode);
+}
+```
+
+同时为了保证callbackName的唯一性, 我们一般会加入各种Date.now() + id, 使其保证唯一。
+
